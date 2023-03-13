@@ -1,0 +1,6 @@
+RNCP.docx
+secret/
+csv_for_mySQL/
+data/
+__pycache__
+.cache
