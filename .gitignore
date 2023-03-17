@@ -4,3 +4,6 @@ csv_for_mySQL/
 data/
 __pycache__
 .cache
+pickles/
+cloud/
+images/
